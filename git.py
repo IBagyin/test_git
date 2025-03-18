@@ -10,4 +10,4 @@ print (f"Összeg {a+b}")
 for i in range(3):
     print("Még 3 hét")
 
-
+print("Ha ezt olvasod geri vagy")
